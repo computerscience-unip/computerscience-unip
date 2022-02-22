@@ -1,7 +1,7 @@
 # Hello dear students, Welcome to the computer science class repository. 
 
-![HTML](https://img.shields.io/badge/HTML-Expert-green)
-![CSS](https://img.shields.io/badge/CSS-Expert-green)
+![HTML](https://img.shields.io/badge/HTML-Expert-blue)
+![CSS](https://img.shields.io/badge/CSS-Expert-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-blue)
 ![Python](https://img.shields.io/badge/Python-Expert-blue)
 ![Java](https://img.shields.io/badge/Java-Expert-blue)
